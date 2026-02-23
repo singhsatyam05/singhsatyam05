@@ -39,10 +39,10 @@
 ---
 
 ## 🔥 Projects
-- 🔒 [AI Deadlock Detection System](https://github.com/singhsatyam05/YOUR-REPO-LINK)
-- 📊 [Power BI Sports Car Dashboard](https://github.com/singhsatyam05/YOUR-REPO-LINK)
+- 🔒 [AI Deadlock Detection System](https://github.com/singhsatyam05/AiDeadlockDetectionSystem)
+- 📊 [Power BI Sports Car Dashboard](https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis)
 - 💪 [FitIQ – Fitness App](https://github.com/singhsatyam05/FitIQ)
-- 🔭 [AI Telescope Assistant](https://github.com/singhsatyam05/YOUR-REPO-LINK) 
+- 🔭 [AI Telescope Assistant](https://github.com/singhsatyam05/AITelescopeAssistant) 
 
 ---
 
