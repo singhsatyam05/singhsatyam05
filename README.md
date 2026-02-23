@@ -1,3 +1,4 @@
+🚀 Building intelligent systems using AI, Data Science, and Full-Stack Development.
 <h1 align="center">Hi 👋, I'm Satyam Kumar Singh</h1>
 
 <h3 align="center">
@@ -10,11 +11,11 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 BTech CSE @ Lovely Professional University  
-- 💡 Passionate about AI, Android & Problem Solving  
-- 🔭 Working on real-world projects  
-- 🌱 Currently learning Data Science & AI  
+## 👨‍💻 About Me
+- 🎓 BTech CSE Student  
+- 💻 Python & Android Developer  
+- 🤖 AI & Data Science Enthusiast  
+- 🚀 Passionate about solving real-world problems    
 
 ---
 
@@ -34,13 +35,18 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,mysql,firebase,androidstudio,vscode" />
 </p>
-
+- 💻 Languages: Python, C++, Java  
+- 🌐 Web: HTML, CSS, JavaScript  
+- 📊 Data: Pandas, NumPy, Power BI  
+- 🤖 AI/ML: Basics, Model Building  
+- ⚙️ Tools: Git, GitHub, VS Code  
 ---
 
 ## 🔥 Projects
-- 🔒 Deadlock Detection System (OS Project)  
-- 💪 FitIQ – Fitness Tracking App  
-- 🔭 AI Telescope Assistant  
+- 🔒 [AI Deadlock Detection System](https://github.com/singhsatyam05/YOUR-REPO-LINK)
+- 📊 [Power BI Sports Car Dashboard](https://github.com/singhsatyam05/YOUR-REPO-LINK)
+- 💪 [FitIQ – Fitness App](https://github.com/singhsatyam05/FitIQ)
+- 🔭 [AI Telescope Assistant](https://github.com/singhsatyam05/YOUR-REPO-LINK) 
 
 ---
 
