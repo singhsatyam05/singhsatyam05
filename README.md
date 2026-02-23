@@ -1,8 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Satyam Kumar Singh</h1>
 
 <h3 align="center">
-🚀 BTech CSE Student | 💻 Python Developer | 📱 Android Developer | 🤖 AI Enthusiast
+🚀 Building intelligent systems using AI, Data Science & Full-Stack Development  
+💡 Passionate about solving real-world problems through technology  
 </h3>
 
 <p align="center">
@@ -12,10 +12,17 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 BTech CSE Student  
+- 🎓 BTech CSE Student @ Lovely Professional University  
 - 💻 Python & Android Developer  
 - 🤖 AI & Data Science Enthusiast  
-- 🚀 Passionate about solving real-world problems    
+- 🚀 Focused on building real-world impactful projects  
+
+---
+
+## 🚀 Currently Working On
+- 🤖 AI-based applications  
+- 📊 Data Analytics & Visualization  
+- 📱 Android Development  
 
 ---
 
@@ -24,25 +31,37 @@
 <a href="https://www.linkedin.com/in/singhsatyam05" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="https://github.com/singhsatyam05" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+<a href="mailto:satyamkumarsingh13990@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,mysql,firebase,androidstudio,vscode" />
 </p>
- 
+
 ---
 
-## 🔥 Projects
-- 🔒 [AI Deadlock Detection System](https://github.com/singhsatyam05/AiDeadlockDetectionSystem)
-- 📊 [Power BI Sports Car Dashboard](https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis)
-- 💪 [FitIQ – Fitness App](https://github.com/singhsatyam05/FitIQ)
-- 🔭 [AI Telescope Assistant](https://github.com/singhsatyam05/AITelescopeAssistant) 
+## 🔥 Featured Projects
+
+### 🔒 AI Deadlock Detection System
+➡️ GUI-based Operating System project using Resource Allocation Graph (RAG)  
+🔗 https://github.com/singhsatyam05/AiDeadlockDetectionSystem  
+
+### 📊 Power BI Sports Car Dashboard
+➡️ Interactive dashboard with KPIs, DAX, and business insights  
+🔗 https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis  
+
+### 💪 FitIQ – Fitness Tracking App
+➡️ Android app with Firebase integration and personalized recommendations  
+🔗 https://github.com/singhsatyam05/FitIQ  
+
+### 🔭 AI Telescope Assistant
+➡️ AI-powered astronomy tool for celestial tracking and insights  
+🔗 https://github.com/singhsatyam05/AITelescopeAssistant  
 
 ---
 
@@ -67,10 +86,15 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements & Streak
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyam05&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight" />
 </p>
+
+---
+
+## ⚡ Fun Fact
+I turn ideas into real-world applications 🚀  
 
 ---
 
