@@ -1,4 +1,4 @@
-🚀 Building intelligent systems using AI, Data Science, and Full-Stack Development.
+
 <h1 align="center">Hi 👋, I'm Satyam Kumar Singh</h1>
 
 <h3 align="center">
@@ -35,11 +35,7 @@
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,js,mysql,firebase,androidstudio,vscode" />
 </p>
-- 💻 Languages: Python, C++, Java  
-- 🌐 Web: HTML, CSS, JavaScript  
-- 📊 Data: Pandas, NumPy, Power BI  
-- 🤖 AI/ML: Basics, Model Building  
-- ⚙️ Tools: Git, GitHub, VS Code  
+ 
 ---
 
 ## 🔥 Projects
