@@ -68,7 +68,7 @@
 
 ## 🏆 Achievements & Badges
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=singhsatyam05&theme=algolia&no-frame=true&margin-w=10" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyam05&theme=tokyonight" />
 </p>
 
 ---
