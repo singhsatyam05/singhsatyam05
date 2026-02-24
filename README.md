@@ -61,6 +61,14 @@
 
 ---
 
+
+### 📝 Nexii Notes App
+➡️ A responsive notes management web app to create, delete, and store notes using browser local storage  
+➡️ Designed with clean UI and optimized for fast performance  
+🔗 https://github.com/singhsatyam05/Nexii-NotesApp  
+
+---
+
 ### 📊 Power BI Sports Car Dashboard
 ➡️ Interactive dashboard with KPIs, DAX, and business insights  
 🔗 https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis  
