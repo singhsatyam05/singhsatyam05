@@ -65,7 +65,7 @@
 ### 📝 Nexii Notes App
 ➡️ A responsive notes management web app to create, delete, and store notes using browser local storage  
 ➡️ Designed with clean UI and optimized for fast performance  
-🔗 https://github.com/singhsatyam05/Nexii-NotesApp  
+🔗 https://github.com/singhsatyam05/Nexi-NotesApp 
 
 ---
 
