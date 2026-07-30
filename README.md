@@ -17,59 +17,22 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=250&section=header&text=SATYAM%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20•%20Android%20•%20AI%20•%20Full-Stack&descAlignY=54&descSize=19" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/main/assets/profile.jpg" width="170" height="170" style="border-radius:50%;object-fit:cover;border:4px solid #00F7FF;"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+Nexii+%E2%80%94+Patent-Pending+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhsatyam05)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhsatyam05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/singhsatyam05)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarsingh13990@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=singhsatyam05&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="30%" align="center">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
 
-<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/main/assets/profile.jpg" width="240" style="border-radius:16px;border:3px solid #8A2BE2;"/>
+<img src="https://img.shields.io/badge/🎓_Final--Year-CSE_Student-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/📱_Android-Kotlin_%2B_Compose-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/📊_Data-SQL_%2B_Power_BI-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧪_Patent-Drafted_🇮🇳-1a1a2e?style=flat-square"/>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🎓_Final--Year-CSE_Student-1a1a2e?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/📱_Android-Kotlin_%2B_Compose-1a1a2e?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/📊_Data-SQL_%2B_Power_BI-1a1a2e?style=for-the-badge"/>
-<br/>
-<img src="https://img.shields.io/badge/🧪_Patent-Drafted_🇮🇳-1a1a2e?style=for-the-badge"/>
-
-</td>
-<td width="70%">
-
-> ### *"I'd rather ship something small and real than perfect something that never leaves the drafting board."*
+> *"I'd rather ship something small and real than perfect something that never leaves the drafting board."*
 
 I'm a final-year **Computer Science & Engineering** student who likes projects that don't stay theoretical — my flagship build, **Nexii**, went from an idea on paper to a full Android app, with a **patent application drafted** and ready for filing. That's the pattern I chase: pick a real problem, build something people can actually use, then measure and improve it.
 
-On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward **SQL, Power BI, and ETL work**. On the Android side, I like the moment a rough sketch becomes a screen someone can tap through — that's what keeps me in **Kotlin and Jetpack Compose**.
+On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward SQL, Power BI, and ETL work. On the Android side, I like the moment a rough sketch becomes a screen someone can tap through — that's what keeps me in Kotlin and Jetpack Compose.
 
-I'm not chasing every framework at once — I'm going deep on a small set of tools I can actually build with, and letting real projects (not tutorials) be the proof.
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ```yaml
 name: Satyam Kumar Singh
@@ -80,13 +43,13 @@ languages_spoken: [English, Hindi]
 currently: Sharpening DSA + system design for Data Science / SDE roles
 ```
 
-<div align="center">
-
-| 🎓 Education | 📱 Android | 📊 Data | 🧪 Patent | 💬 Ask Me About |
-|:---:|:---:|:---:|:---:|:---:|
-| B.Tech CSE @ LPU, Punjab | Kotlin, Compose, MVVM, Material 3 | SQL, Power BI, Spark, Hadoop | Co-inventor, Nexii (drafted) | Android architecture, SQL, dashboards |
-
-</div>
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, Lovely Professional University, Punjab |
+| 📱 **Android** | Kotlin, Jetpack Compose, MVVM, Material 3 |
+| 📊 **Data** | Python, SQL, Power BI, ETL pipelines, Apache Spark, Hadoop |
+| 🧪 **Patent** | Co-inventor, patent application drafted for Nexii |
+| 💬 **Ask me about** | Android architecture, SQL optimization, Power BI dashboards |
 
 ---
 
