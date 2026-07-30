@@ -1,30 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00F7FF,35:4F46E5,70:7C3AED,100:FF00E5&text=SATYAM%20KUMAR%20SINGH&fontColor=ffffff&fontSize=52&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Student%20•%20Android%20Developer%20•%20AI%20Enthusiast%20•%20Full-Stack%20Developer&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:0099FF,50:6A5ACD,75:B026FF,100:FF1493&text=SATYAM%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Data%20Science%20Student%20|%20Android%20Developer%20|%20AI%20Enthusiast%20|%20Full-Stack%20Developer&descAlignY=60&descSize=18"/>
 
-<img src="profile.jpeg" width="190" alt="Satyam Kumar Singh"/>
+<br>
 
-# 👋 Hi, I'm Satyam Kumar Singh
+<img src="profile.jpeg" width="220"/>
 
-### 📊 Data Science Student • 📱 Android Developer • 🤖 AI Enthusiast • 💻 Full-Stack Developer
+# Hi 👋 I'm Satyam Kumar Singh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub!;Data+Science+Student;Android+Developer;AI+Enthusiast;Full-Stack+Developer;Building+Real-World+Software;Always+Learning+%26+Improving+🚀"/>
+### 📊 Data Science Student | 📱 Android Developer | 🤖 AI Enthusiast | 💻 Full-Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=800&center=true&vCenter=true&width=850&color=00F5FF&lines=Welcome+to+my+GitHub!;Building+Real-World+Projects;Data+Science+%7C+Android+Development;Artificial+Intelligence;Spring+Boot+Backend;Always+Learning+🚀"/>
 
 <p>
+
+<a href="https://github.com/singhsatyam05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
 <a href="https://www.linkedin.com/in/singhsatyam05">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:satyamkumarsingh13990@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/singhsatyam05">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://leetcode.com/u/singhsatyam05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=singhsatyam05&label=Profile%20Views&color=00F7FF&style=for-the-badge"/>
+![](https://komarev.com/ghpvc/?username=singhsatyam05&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -32,113 +40,56 @@
 
 # 👨‍💻 About Me
 
-<table>
-<tr>
+<img align="right" width="320" src="profile.jpeg"/>
 
-<td width="38%" align="center">
+🎓 Computer Science student passionate about solving real-world problems through technology.
 
-<img src="profile.jpeg" width="240"/>
+📊 My primary area of interest is **Data Science**, where I enjoy analyzing data, creating visualizations, and exploring machine learning techniques.
 
-<br><br>
+📱 I build modern Android applications using **Kotlin** and **Jetpack Compose** with a focus on clean UI and smooth user experience.
 
-<img src="https://img.shields.io/badge/📊_Data_Science-Primary_Interest-0A192F?style=for-the-badge"/>
+🤖 I enjoy developing AI-powered applications that combine intelligent features with practical software engineering.
 
-<br>
+💻 I also work on Full-Stack applications using **Spring Boot**, **REST APIs**, **JWT Authentication**, and **MySQL**.
 
-<img src="https://img.shields.io/badge/📱_Android-Kotlin_&_Jetpack_Compose-0A192F?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/🤖_Artificial_Intelligence-Projects-0A192F?style=for-the-badge"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/💻_Full_Stack-Spring_Boot-0A192F?style=for-the-badge"/>
-
-</td>
-
-<td width="62%">
-
-## Hello! 👋
-
-I'm a **Computer Science student** who enjoys building practical software that solves real-world problems.
-
-My primary interest is **Data Science**, where I enjoy working with data, analytics, visualization, and machine learning concepts to transform raw data into meaningful insights.
-
-Alongside Data Science, I'm an **Android Developer** focused on building modern applications using **Kotlin** and **Jetpack Compose** with clean, responsive user interfaces.
-
-I'm also passionate about **Artificial Intelligence** and **Full-Stack Development**, building projects that combine intelligent features with scalable backend systems.
-
-I enjoy learning continuously, improving my problem-solving skills through **DSA**, and building projects that strengthen my software engineering knowledge.
-
-</td>
-
-</tr>
-</table>
+🧠 I continuously improve my DSA, SQL, and software engineering skills by solving coding problems and building projects.
 
 ---
 
-# ⚡ Quick Highlights
+# ⚡ Quick Overview
 
-<table>
-
-<tr>
-<td>🎓</td>
-<td>B.Tech Computer Science Student</td>
-</tr>
-
-<tr>
-<td>📊</td>
-<td>Primary Interest: Data Science & Analytics</td>
-</tr>
-
-<tr>
-<td>📱</td>
-<td>Android Developer (Kotlin + Jetpack Compose)</td>
-</tr>
-
-<tr>
-<td>🤖</td>
-<td>Artificial Intelligence Enthusiast</td>
-</tr>
-
-<tr>
-<td>💻</td>
-<td>Full-Stack Development (Spring Boot)</td>
-</tr>
-
-<tr>
-<td>🧠</td>
-<td>Strong in Java, Python, C++, SQL & DSA</td>
-</tr>
-
-<tr>
-<td>🏆</td>
-<td>150+ DSA & SQL Problems Solved</td>
-</tr>
-
-</table>
+| 💡 | Details |
+|:--|:--------|
+| 🎓 Education | B.Tech Computer Science |
+| 📊 Primary Domain | Data Science |
+| 📱 Secondary Domain | Android Development |
+| 🤖 Interested In | Artificial Intelligence |
+| 💻 Backend | Spring Boot |
+| 🛢 Database | MySQL |
+| 📈 Analytics | Power BI |
+| 🧠 Languages | Java • Python • Kotlin • C++ • SQL |
 
 ---
 
 # 🚀 Current Focus
 
-- 📊 Data Science & Machine Learning
-- 📱 Android Application Development
-- 🤖 AI-Powered Software Solutions
-- 💻 Spring Boot Backend Development
-- ☁️ Cloud Computing & DevOps
-- 📈 Data Visualization & Business Intelligence
+- 📊 Data Science
+- 📈 Machine Learning
+- 📱 Android Development
+- 🤖 Artificial Intelligence
+- 💻 Spring Boot
+- ☁ Cloud Computing
+- 🧠 DSA & Problem Solving
 
 ---
-# 🛠️ Tech Stack
+# 💻 Tech Stack
 
 <div align="center">
 
-## 💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,python,kotlin,cpp,javascript"/>
 </p>
 
 ---
@@ -151,10 +102,10 @@ I enjoy learning continuously, improving my problem-solving skills through **DSA
 
 ---
 
-## 💻 Backend Development
+## 🌐 Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,mysql"/>
+<img src="https://skillicons.dev/icons?i=spring,mysql,postman"/>
 </p>
 
 ---
@@ -169,21 +120,35 @@ I enjoy learning continuously, improving my problem-solving skills through **DSA
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </p>
 
 ---
 
-## ⚙️ Tools
+## ☁️ Big Data & Cloud
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/HBase-CB2027?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white"/>
+
+</p>
+
+---
+
+## 🛠️ Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
 
 </p>
 
@@ -191,7 +156,40 @@ I enjoy learning continuously, improving my problem-solving skills through **DSA
 
 ---
 
-# 📈 Skills Dashboard
+# 📈 Skills Overview
+
+| Skill | Level |
+|:------|:------:|
+| 📊 Data Science | █████████████░░ 90% |
+| 📱 Android Development | ████████████░░░ 85% |
+| 🤖 Artificial Intelligence | ███████████░░░░ 80% |
+| 💻 Full-Stack Development | ███████████░░░░ 80% |
+| ☕ Java | ██████████████░ 92% |
+| 🐍 Python | █████████████░░ 90% |
+| 🛢 SQL | ███████████████ 95% |
+| 🧠 Data Structures & Algorithms | ████████████░░░ 85% |
+
+---
+
+# 📚 Core Subjects
+
+<div align="center">
+
+| 💡 Domain | Technologies |
+|-----------|--------------|
+| 📊 Data Science | Pandas • NumPy • Scikit-Learn • Power BI |
+| 📱 Android | Kotlin • Jetpack Compose • Firebase |
+| 🌐 Backend | Spring Boot • REST APIs • JWT |
+| 🛢 Database | MySQL • SQL |
+| ☁️ Big Data | Hadoop • Hive • HBase • Cassandra |
+| 💻 Core CS | OOP • DBMS • Operating Systems • Computer Networks |
+| 🧠 Problem Solving | DSA • Algorithms |
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
 
 <table>
 
@@ -199,57 +197,23 @@ I enjoy learning continuously, improving my problem-solving skills through **DSA
 
 <td width="50%">
 
-## 📊 Data Science
+### 📊 Data Science
 
-████████████░░ 85%
+- Machine Learning
+- Data Visualization
+- Feature Engineering
+- Statistical Analysis
 
 </td>
 
 <td width="50%">
 
-## 📱 Android Development
+### 💻 Software Development
 
-████████████░░ 85%
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🤖 Artificial Intelligence
-
-██████████░░░░ 75%
-
-</td>
-
-<td>
-
-## 💻 Full-Stack Development
-
-███████████░░░ 80%
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🧠 DSA & Problem Solving
-
-████████████░░ 85%
-
-</td>
-
-<td>
-
-## 🗄 SQL
-
-█████████████░ 90%
+- Spring Security
+- Docker
+- Cloud Computing
+- System Design
 
 </td>
 
@@ -259,163 +223,172 @@ I enjoy learning continuously, improving my problem-solving skills through **DSA
 
 ---
 
+# 🎯 Learning Goals
+
+- 🚀 Build production-ready Data Science projects.
+- 📱 Develop scalable Android applications.
+- 🤖 Explore AI and Deep Learning.
+- ☁️ Learn AWS and modern DevOps practices.
+- 💻 Master backend architecture with Spring Boot.
+- 🧠 Strengthen DSA and system design skills.
+
+---
 # 🚀 Featured Projects
 
-<table>
+---
 
-<tr>
+## 🛒 Nexii – Full-Stack Hyperlocal Marketplace
 
-<td width="50%">
+> **A modern Android-based hyperlocal marketplace connecting buyers and sellers through a secure Spring Boot backend.**
 
-## 🛒 Nexii
+### ✨ Highlights
+- 🔐 JWT Authentication & Spring Security
+- 👥 Buyer, Seller & Admin Roles
+- 🛍 Product & Category Management
+- 🛒 Shopping Cart & Order Management
+- 🔄 RESTful APIs with Retrofit
+- 🗄 MySQL Database
+- 📱 Modern UI with Jetpack Compose
 
-### Full-Stack Hyperlocal Marketplace
+**Tech Stack**
 
-✔ Kotlin
+`Kotlin` `Jetpack Compose` `Spring Boot` `Java` `JWT` `Spring Security` `MySQL` `Retrofit` `REST APIs`
 
-✔ Jetpack Compose
+<p>
+<a href="https://github.com/singhsatyam05/Nexii">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-✔ Spring Boot
-
-✔ JWT Authentication
-
-✔ MySQL
-
-✔ REST APIs
-
-✔ Buyer • Seller • Admin
-
-🔗
-
-https://github.com/singhsatyam05/nexii-fullstack-app
-
-</td>
-
-<td width="50%">
+---
 
 ## 🚨 Accident Alert with AI Scanning System
 
-AI-powered accident detection system that intelligently detects accidents and sends emergency alerts.
+> **An AI-powered system designed to detect road accidents and assist with emergency alert generation.**
 
-✔ Artificial Intelligence
+### ✨ Highlights
 
-✔ Image Processing
+- 🤖 AI-assisted accident detection
+- 📷 Intelligent image scanning
+- 🚑 Emergency alert workflow
+- 📍 Faster response support
+- 📊 Practical real-world application
 
-✔ Emergency Notification
+**Tech Stack**
 
-🔗
+`Python` `Artificial Intelligence` `Computer Vision`
 
-https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 🤖 AI Deadlock Detection System
-
-GUI simulator implementing
-
-✔ Resource Allocation Graph
-
-✔ Banker's Algorithm
-
-✔ Deadlock Detection
-
-✔ Operating Systems
-
-🔗
-
-https://github.com/singhsatyam05/AiDeadlockDetectionSystem
-
-</td>
-
-<td>
-
-## 🔭 AI Telescope Assistant
-
-AI-powered astronomy assistant for celestial object tracking and intelligent insights.
-
-✔ Python
-
-✔ Artificial Intelligence
-
-✔ Astronomy
-
-🔗
-
-https://github.com/singhsatyam05/AITelescopeAssistant
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 💪 FitIQ
-
-Android Fitness Application
-
-✔ Firebase
-
-✔ Kotlin
-
-✔ Personalized Recommendations
-
-🔗
-
-https://github.com/singhsatyam05/FitIQ
-
-</td>
-
-<td>
-
-## 📊 Power BI Dashboard
-
-Interactive dashboard using
-
-✔ Power BI
-
-✔ DAX
-
-✔ Business Intelligence
-
-✔ Data Visualization
-
-🔗
-
-https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
-
-</td>
-
-</tr>
-
-</table>
+<p>
+<a href="https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
 
-# 📚 Currently Learning
+## 🤖 AI Deadlock Detection System
 
-- 🤖 Machine Learning
+> **A GUI-based Operating Systems simulator for visualizing resource allocation and detecting deadlocks.**
 
-- 🧠 Deep Learning
+### ✨ Highlights
 
-- ☁ AWS Cloud
+- 🖥 Interactive GUI
+- 🔄 Resource Allocation Graph
+- 🧠 Banker's Algorithm
+- ⚡ Deadlock Detection
+- 📚 Operating System Concepts
 
-- 🐳 Docker
+**Tech Stack**
 
-- 🔄 CI/CD
+`Python` `Tkinter` `Operating Systems`
 
-- 🏗 System Design
+<p>
+<a href="https://github.com/singhsatyam05/AiDeadlockDetectionSystem">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
-- 📱 Advanced Android Development
+---
 
-- 📊 Advanced Data Analytics
+## 🔭 AI Telescope Assistant
+
+> **An intelligent assistant that helps identify celestial objects and provides astronomy-related insights.**
+
+### ✨ Highlights
+
+- 🌌 AI-powered assistance
+- ⭐ Celestial object guidance
+- 💬 Intelligent interaction
+- 🔭 Astronomy-focused features
+
+**Tech Stack**
+
+`Python` `Artificial Intelligence`
+
+<p>
+<a href="https://github.com/singhsatyam05/AITelescopeAssistant">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 💪 FitIQ
+
+> **A fitness application focused on helping users maintain healthy habits with a clean Android experience.**
+
+### ✨ Highlights
+
+- 📱 Modern Android UI
+- 🔐 Firebase Authentication
+- 🏋 Fitness tracking
+- 🎯 Personalized experience
+
+**Tech Stack**
+
+`Kotlin` `Firebase` `Jetpack Compose`
+
+<p>
+<a href="https://github.com/singhsatyam05/FitIQ">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+## 📊 Power BI Sports Car Dashboard
+
+> **Interactive dashboard for analyzing sports car data using Power BI and DAX.**
+
+### ✨ Highlights
+
+- 📈 Interactive Dashboard
+- 📊 Business Intelligence
+- 📉 KPI Visualization
+- 🎨 Dynamic Charts
+- ⚡ DAX Measures
+
+**Tech Stack**
+
+`Power BI` `DAX` `Data Visualization`
+
+<p>
+<a href="https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis">
+<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+# 📌 Project Statistics
+
+| Category | Count |
+|:---------|------:|
+| 📱 Android Projects | 2 |
+| 🤖 AI Projects | 3 |
+| 💻 Full-Stack Projects | 1 |
+| 📊 Data Analytics Projects | 1 |
+| 🗄 Backend Projects | 1 |
 
 ---
 # 🏆 Achievements & Certifications
@@ -426,25 +399,23 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 <img src="https://img.shields.io/badge/HackerRank-5★%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Basic%20%7C%20Intermediate%20%7C%20Advanced-2EC866?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🏅 Highlights
+## 🥇 Highlights
 
 🏆 Solved **150+ DSA & SQL** problems across LeetCode and HackerRank.
 
-⭐ Earned the **Top SQL 50 Badge** on LeetCode.
+🥇 Earned the **Top SQL 50** badge on LeetCode.
 
 ⭐ Achieved a **5★ SQL** rating on HackerRank.
 
-📜 Earned verified **SQL Basic**, **Intermediate**, and **Advanced** certifications.
+📜 Earned verified SQL certifications (Basic, Intermediate & Advanced).
 
-💻 Built multiple real-world applications across Android, AI, Data Science, and Full-Stack Development.
-
-🚀 Continuously learning modern technologies and building practical software projects.
+🚀 Built projects in Android Development, Data Science, AI, and Full-Stack Development.
 
 ---
 
@@ -452,7 +423,7 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -460,37 +431,7 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 ---
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsatyam05&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=singhsatyam05&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📈 GitHub Profile Summary
+# 📈 Profile Summary
 
 <div align="center">
 
@@ -500,11 +441,13 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 ---
 
-# 📊 Most Used Languages
+# 🌍 Language Distribution
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhsatyam05&theme=tokyonight"/>
+
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhsatyam05&theme=tokyonight"/>
 
@@ -512,11 +455,21 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 ---
 
-# ⏱️ Productivity Stats
+# 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhsatyam05&theme=tokyonight&utcOffset=5"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsatyam05&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=singhsatyam05&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -524,59 +477,67 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 # 🐍 Contribution Snake
 
+> **Note:** This animation requires a GitHub Actions workflow to generate the SVG automatically.
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 
 </div>
 
 ---
 
-# 📚 Current Goals
+# 📚 Currently Learning
 
-- 📊 Advance my knowledge in Data Science & Machine Learning.
-- 📱 Build scalable Android applications using Jetpack Compose.
-- 🤖 Develop AI-powered software solutions.
-- 💻 Strengthen Full-Stack Development with Spring Boot.
-- ☁️ Learn Cloud Computing and DevOps tools.
-- 🧠 Improve DSA and System Design for Software Engineering roles.
-
----
-
-# 💼 Open To
-
-✔ Data Science Internships
-
-✔ Android Development Internships
-
-✔ Software Development Engineer (SDE) Roles
-
-✔ Full-Stack Development Opportunities
-
-✔ AI & Machine Learning Projects
+- 📊 Machine Learning
+- 🤖 Deep Learning
+- ☁️ AWS Cloud
+- 🐳 Docker
+- 🏗️ System Design
+- 📱 Advanced Android Development
+- 📈 Data Engineering
 
 ---
----
 
+# 🎯 2026 Goals
+
+- 🚀 Build impactful Data Science projects.
+- 📱 Publish polished Android applications.
+- 🤖 Learn advanced AI and Deep Learning.
+- 💻 Master scalable backend development.
+- 🌍 Contribute more to Open Source.
+- 🏆 Solve **300+ DSA** problems.
+
+---
 # 📬 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/singhsatyam05">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="mailto:satyamkumarsingh13990@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="mailto:satyamkumarsingh13990@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/singhsatyam05">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/singhsatyam05">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/singhsatyam05/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
+</div>
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> **"Transforming data into insights, ideas into applications, and challenges into opportunities."**
 
 </div>
 
@@ -584,90 +545,34 @@ https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis
 
 # 🎯 Fun Facts
 
-💡 I enjoy solving real-world problems through software.
-
-📊 I love working with data and transforming it into meaningful insights.
-
-📱 Android Development is where I enjoy creating beautiful user experiences.
-
-🤖 Artificial Intelligence fascinates me because it combines creativity with technology.
-
-🚀 I believe that consistent learning is the key to becoming a better engineer.
+- 📊 I enjoy transforming raw data into meaningful insights.
+- 📱 I like building Android apps with Kotlin & Jetpack Compose.
+- 🤖 I'm passionate about AI-powered software.
+- 💻 I enjoy creating scalable backend systems.
+- 🚀 I believe every project is an opportunity to learn something new.
 
 ---
 
-# 📖 My Development Philosophy
+# 🤝 Let's Collaborate
 
-> **"Good software is not just about writing code. It's about solving problems, creating value, and continuously learning from every project."**
+I'm always open to collaborating on:
 
----
-
-# 🎯 2026 Goals
-
-- 🎓 Become a skilled Data Scientist.
-- 📱 Build production-ready Android applications.
-- 🤖 Learn advanced Machine Learning and Deep Learning.
-- 💻 Master scalable Full-Stack Development.
-- ☁️ Gain hands-on experience with AWS and Docker.
-- 🏆 Solve 300+ DSA problems.
-- 🚀 Contribute more to Open Source.
-
----
-
-# 📈 Coding Journey
-
-```text
-Data Science           ██████████████░░ 90%
-
-Android Development    █████████████░░ 85%
-
-Artificial Intelligence ███████████░░░ 80%
-
-Full-Stack Development ███████████░░░ 80%
-
-Problem Solving         █████████████░ 88%
-
-SQL                     ██████████████ 95%
-```
-
----
-
-# 💼 Looking For
-
-✔ Data Science Internships
-
-✔ Android Development Internships
-
-✔ Software Engineer (SDE) Roles
-
-✔ AI & Machine Learning Projects
-
-✔ Open Source Contributions
-
-✔ Full-Stack Development Opportunities
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-## 🚀
-
-### *"Transforming data into insights, ideas into applications, and challenges into opportunities."*
-
-</div>
+- 📊 Data Science Projects
+- 📱 Android Applications
+- 🤖 Artificial Intelligence
+- 💻 Full-Stack Development
+- 🌍 Open Source Contributions
 
 ---
 
 <div align="center">
 
-## ⭐ Thank You for Visiting My Profile!
+## ⭐ Thanks for visiting my profile!
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you enjoy my work, consider starring my repositories.
 
-Let's connect and build something amazing together!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF00E5,50:7C3AED,100:00F7FF&section=footer"/>
+Let's connect and build something amazing together! 🚀
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:00F5FF,30:0099FF,60:7B2FF7,100:FF1493"/>
