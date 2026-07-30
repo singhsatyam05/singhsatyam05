@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Satyam%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Android%20%7C%20AI%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+SWASTIK+%E2%80%94+Patent-Filed+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+Nexii+%E2%80%94+Patent-Filed+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
 
 <br/>
 
@@ -19,21 +19,26 @@
 
 ### 👨‍💻 About Me
 
+I'm a final-year **Computer Science & Engineering** student who likes projects that don't stay theoretical — my flagship build, **Nexii**, went from an idea on paper to a full Android app with a **filed Indian patent** behind it. That's the pattern I chase: pick a real problem, ship something people can actually use, then measure and improve it.
+
+On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward SQL, Power BI, and ETL work. On the Android side, I like the moment a rough Figma sketch becomes a screen someone can tap through — that's what keeps me in Kotlin and Jetpack Compose.
+
 ```yaml
 name: Satyam Kumar Singh
 role: Final-Year B.Tech CSE Student @ Lovely Professional University
 focus: [Data Science, AI Development, Android Development]
-currently_building: SWASTIK — a hyperlocal electronics marketplace (patent filed 🇮🇳)
+flagship_build: Nexii — hyperlocal electronics marketplace (patent filed 🇮🇳)
 languages_spoken: [English, Hindi]
-fun_fact: I turn messy data into dashboards and rough ideas into shipped apps
+currently: Sharpening DSA + system design for Data Science / SDE roles
 ```
 
-- 🎓 Final-year **Computer Science & Engineering** student at **Lovely Professional University**, Punjab
-- 📱 Android Developer — **Kotlin, Jetpack Compose, MVVM, Material 3**
-- 📊 Data enthusiast — **Python, SQL, Power BI, ETL pipelines, Apache Spark, Hadoop**
-- 🧪 Inventor on a **filed Indian patent** for SWASTIK, a hyperlocal Android marketplace
-- 🌱 Currently sharpening DSA and system design for SDE/Data roles
-- 💬 Ask me about **Android architecture, SQL query optimization, or Power BI dashboards**
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech CSE, Lovely Professional University, Punjab |
+| 📱 **Android** | Kotlin, Jetpack Compose, MVVM, Material 3 |
+| 📊 **Data** | Python, SQL, Power BI, ETL pipelines, Apache Spark, Hadoop |
+| 🧪 **Patent** | Co-inventor, filed Indian patent for Nexii |
+| 💬 **Ask me about** | Android architecture, SQL optimization, Power BI dashboards |
 
 ---
 
@@ -71,14 +76,14 @@ fun_fact: I turn messy data into dashboards and rough ideas into shipped apps
 
 ---
 
-### 🚀 Featured Project — SWASTIK
+### 🚀 Featured Project — Nexii
 
 <div align="center">
 <img src="https://img.shields.io/badge/Status-Patent%20Filed%20🇮🇳-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
-**SWASTIK** is a hyperlocal electronics marketplace — think "Zomato-model" applied to electronics — connecting buyers with verified local shops within a 30–40 km radius.
+**Nexii** is a hyperlocal electronics marketplace — think "Zomato-model" applied to electronics — connecting buyers with verified local shops within a 30–40 km radius.
 
 - 🏗️ Full Android app scaffolded across **20 screens** covering buyer and seller flows
 - ⚡ Hyperlocal express delivery + **"Try Before You Buy"** demo booking
@@ -87,7 +92,7 @@ fun_fact: I turn messy data into dashboards and rough ideas into shipped apps
 - 🎨 Built with **Kotlin, Jetpack Compose, Material 3, Navigation Compose**
 - 📜 **Patent filed** with the Indian Patent Office (co-invented with Om Garg & Deepanshu)
 
-> *Add your SWASTIK repo link here once it's public, e.g.* `🔗 https://github.com/singhsatyam05/SWASTIK`
+🔗 **Repository:** [github.com/singhsatyam05/nexii-fullstack-app](https://github.com/singhsatyam05/nexii-fullstack-app)
 
 ---
 
@@ -97,20 +102,11 @@ fun_fact: I turn messy data into dashboards and rough ideas into shipped apps
 <tr>
 <td width="50%">
 
-**🛒 Nexii — Hyperlocal E-Commerce Platform**
-Full-stack Android marketplace with Spring Boot, Kotlin, Jetpack Compose, MySQL, JWT auth, and role-based access for Buyer/Seller/Admin.
-🔗 [Repository](https://github.com/singhsatyam05/nexii-fullstack-app)
-
-</td>
-<td width="50%">
-
 **🚨 Accident Alert with AI Scanning**
 AI-powered accident detection system that identifies incidents and triggers emergency notifications automatically.
 🔗 [Repository](https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **🤖 AI Deadlock Detection System**
@@ -118,6 +114,8 @@ OS simulator using a Resource Allocation Graph and Banker's Algorithm to detect 
 🔗 [Repository](https://github.com/singhsatyam05/AiDeadlockDetectionSystem)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **🔭 AI Telescope Assistant**
@@ -125,8 +123,6 @@ AI-powered astronomy assistant built on the OpenAI API for celestial tracking an
 🔗 [Repository](https://github.com/singhsatyam05/AITelescopeAssistant)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **📊 Sports Car Sales Dashboard**
@@ -134,11 +130,16 @@ Interactive Power BI dashboard with KPIs, DAX measures, and business insights.
 🔗 [Repository](https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 **💪 FitIQ — Fitness Tracking App**
 Android app with Firebase integration delivering personalized fitness recommendations.
 🔗 [Repository](https://github.com/singhsatyam05/FitIQ)
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
@@ -161,7 +162,7 @@ Android app with Firebase integration delivering personalized fitness recommenda
 - ⭐ **Top SQL 50** badge on LeetCode · 67 MySQL problems solved
 - ⭐ **5★ SQL** rating on HackerRank, certified in SQL (Basic, Intermediate & Advanced)
 - 🥉 3rd place on an Analytical Leaderboard (CSE Pathshala DSA training, ~200 participants)
-- 📜 Co-inventor on a **filed Indian patent** for SWASTIK
+- 📜 Co-inventor on a **filed Indian patent** for Nexii
 
 ---
 
@@ -172,14 +173,10 @@ Android app with Firebase integration delivering personalized fitness recommenda
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyam05&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsatyam05&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://ghchart.rshah.org/00F7FF/singhsatyam05" width="95%"/>
 
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/output/github-contribution-grid-snake.svg" width="95%"/>
 </div>
 
 ---
