@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=Satyam%20Kumar%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Android%20%7C%20AI%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=250&section=header&text=SATYAM%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20•%20Android%20•%20AI%20•%20Full-Stack&descAlignY=54&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+Nexii+%E2%80%94+Patent-Filed+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+Nexii+%E2%80%94+Patent-Pending+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
 
 <br/>
 
@@ -17,17 +17,28 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a final-year **Computer Science & Engineering** student who likes projects that don't stay theoretical — my flagship build, **Nexii**, went from an idea on paper to a full Android app with a **filed Indian patent** behind it. That's the pattern I chase: pick a real problem, ship something people can actually use, then measure and improve it.
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
 
-On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward SQL, Power BI, and ETL work. On the Android side, I like the moment a rough Figma sketch becomes a screen someone can tap through — that's what keeps me in Kotlin and Jetpack Compose.
+<img src="https://img.shields.io/badge/🎓_Final--Year-CSE_Student-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/📱_Android-Kotlin_%2B_Compose-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/📊_Data-SQL_%2B_Power_BI-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧪_Patent-Drafted_🇮🇳-1a1a2e?style=flat-square"/>
+
+> *"I'd rather ship something small and real than perfect something that never leaves the drafting board."*
+
+I'm a final-year **Computer Science & Engineering** student who likes projects that don't stay theoretical — my flagship build, **Nexii**, went from an idea on paper to a full Android app, with a **patent application drafted** and ready for filing. That's the pattern I chase: pick a real problem, build something people can actually use, then measure and improve it.
+
+On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward SQL, Power BI, and ETL work. On the Android side, I like the moment a rough sketch becomes a screen someone can tap through — that's what keeps me in Kotlin and Jetpack Compose.
+
+<br clear="right"/>
 
 ```yaml
 name: Satyam Kumar Singh
 role: Final-Year B.Tech CSE Student @ Lovely Professional University
 focus: [Data Science, AI Development, Android Development]
-flagship_build: Nexii — hyperlocal electronics marketplace (patent filed 🇮🇳)
+flagship_build: Nexii — hyperlocal electronics marketplace (patent drafted 🇮🇳, filing in progress)
 languages_spoken: [English, Hindi]
 currently: Sharpening DSA + system design for Data Science / SDE roles
 ```
@@ -37,12 +48,12 @@ currently: Sharpening DSA + system design for Data Science / SDE roles
 | 🎓 **Education** | B.Tech CSE, Lovely Professional University, Punjab |
 | 📱 **Android** | Kotlin, Jetpack Compose, MVVM, Material 3 |
 | 📊 **Data** | Python, SQL, Power BI, ETL pipelines, Apache Spark, Hadoop |
-| 🧪 **Patent** | Co-inventor, filed Indian patent for Nexii |
+| 🧪 **Patent** | Co-inventor, patent application drafted for Nexii |
 | 💬 **Ask me about** | Android architecture, SQL optimization, Power BI dashboards |
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -76,10 +87,10 @@ currently: Sharpening DSA + system design for Data Science / SDE roles
 
 ---
 
-### 🚀 Featured Project — Nexii
+## 🚀 Featured Project — Nexii
 
 <div align="center">
-<img src="https://img.shields.io/badge/Status-Patent%20Filed%20🇮🇳-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Patent%20Drafted%20🇮🇳-blueviolet?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
@@ -90,13 +101,13 @@ currently: Sharpening DSA + system design for Data Science / SDE roles
 - 🔐 Digital warranty vault and automated compliance verification
 - 🤖 Built-in AI shopping assistant with real-time inventory management
 - 🎨 Built with **Kotlin, Jetpack Compose, Material 3, Navigation Compose**
-- 📜 **Patent filed** with the Indian Patent Office (co-invented with Om Garg & Deepanshu)
+- 📜 **Patent application drafted** with the Indian Patent Office, filing in progress (co-invented with Om Garg & Deepanshu)
 
 🔗 **Repository:** [github.com/singhsatyam05/nexii-fullstack-app](https://github.com/singhsatyam05/nexii-fullstack-app)
 
 ---
 
-### 🔥 Other Projects
+## 🔥 Other Projects
 
 <table>
 <tr>
@@ -147,14 +158,14 @@ Android app with Firebase integration delivering personalized fitness recommenda
 
 ---
 
-### 🏅 Achievements
+## 🏅 Achievements
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/HackerRank-5★%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 <img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/Patent-Filed%20(India)-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Patent-Drafted%20(India)-blueviolet?style=for-the-badge"/>
 
 </div>
 
@@ -162,11 +173,11 @@ Android app with Firebase integration delivering personalized fitness recommenda
 - ⭐ **Top SQL 50** badge on LeetCode · 67 MySQL problems solved
 - ⭐ **5★ SQL** rating on HackerRank, certified in SQL (Basic, Intermediate & Advanced)
 - 🥉 3rd place on an Analytical Leaderboard (CSE Pathshala DSA training, ~200 participants)
-- 📜 Co-inventor on a **filed Indian patent** for Nexii
+- 📜 Co-inventor on a **drafted patent application** for Nexii
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -187,6 +198,6 @@ Android app with Firebase integration delivering personalized fitness recommenda
 
 > *"Transforming data into insights, ideas into applications, and challenges into opportunities."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=100&section=footer"/>
 
 </div>
