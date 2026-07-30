@@ -1,203 +1,136 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Satyam Kumar Singh</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=250&section=header&text=SATYAM%20KUMAR%20SINGH&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Science%20•%20Android%20•%20AI%20•%20Full-Stack&descAlignY=54&descSize=19" width="100%"/>
+<h3 align="center">
+🚀 Software Engineer | AI & Data Science Enthusiast | Full-Stack Developer  
+💡 Building scalable and intelligent solutions to real-world problems  
+</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=820&lines=Welcome+to+my+GitHub!;Final-Year+CSE+Student+%40+LPU;Building+Nexii+%E2%80%94+Patent-Pending+Android+App;Data+Science+%2B+AI+Enthusiast;Turning+Data+into+Decisions+%F0%9F%9A%80" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhsatyam05)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhsatyam05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/singhsatyam05)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarsingh13990@gmail.com)
-
-<img src="https://komarev.com/ghpvc/?username=singhsatyam05&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="profile views"/>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+build+real-world+projects;AI+%7C+Full+Stack+%7C+Android;Always+Learning+%26+Improving+🚀" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
+- 🎓 BTech CSE Student @ Lovely Professional University  
+- 💻 Strong in **DSA (C++), Python, and Full-Stack Development**  
+- 🤖 Passionate about **AI, Data Science & System Design**  
+- 🚀 Focused on building **real-world impactful and scalable projects**  
+- 📈 Constantly improving problem-solving and development skills  
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
+---
 
-<img src="https://img.shields.io/badge/🎓_Final--Year-CSE_Student-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/📱_Android-Kotlin_%2B_Compose-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/📊_Data-SQL_%2B_Power_BI-1a1a2e?style=flat-square"/>
-<img src="https://img.shields.io/badge/🧪_Patent-Drafted_🇮🇳-1a1a2e?style=flat-square"/>
-
-> *"I'd rather ship something small and real than perfect something that never leaves the drafting board."*
-
-I'm a final-year **Computer Science & Engineering** student who likes projects that don't stay theoretical — my flagship build, **Nexii**, went from an idea on paper to a full Android app, with a **patent application drafted** and ready for filing. That's the pattern I chase: pick a real problem, build something people can actually use, then measure and improve it.
-
-On the data side, I like the moment a messy spreadsheet turns into a dashboard someone can actually make a decision from — that's what pulls me toward SQL, Power BI, and ETL work. On the Android side, I like the moment a rough sketch becomes a screen someone can tap through — that's what keeps me in Kotlin and Jetpack Compose.
-
-<br clear="right"/>
-
-```yaml
-name: Satyam Kumar Singh
-role: Final-Year B.Tech CSE Student @ Lovely Professional University
-focus: [Data Science, AI Development, Android Development]
-flagship_build: Nexii — hyperlocal electronics marketplace (patent drafted 🇮🇳, filing in progress)
-languages_spoken: [English, Hindi]
-currently: Sharpening DSA + system design for Data Science / SDE roles
-```
-
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech CSE, Lovely Professional University, Punjab |
-| 📱 **Android** | Kotlin, Jetpack Compose, MVVM, Material 3 |
-| 📊 **Data** | Python, SQL, Power BI, ETL pipelines, Apache Spark, Hadoop |
-| 🧪 **Patent** | Co-inventor, patent application drafted for Nexii |
-| 💬 **Ask me about** | Android architecture, SQL optimization, Power BI dashboards |
+## 🚀 Current Focus
+- 🤖 Building **AI-powered applications (Code Debugger, Automation Tools)**  
+- ☁️ Exploring **Cloud (AWS/GCP) & DevOps (Docker, CI/CD)**  
+- 📊 Working on **Data Analysis & Visualization Projects**  
+- 🧠 Practicing **DSA for problem-solving & interviews**  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,kotlin" />
+</p>
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,js" />
+### 🌐 Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,androidstudio,firebase,mysql" />
+</p>
 
-**Android Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,materialui" />
-
-**Data Science & Analytics**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-**Databases & Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,firebase,spring,nodejs" />
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma" />
-
-</div>
+### ⚙️ Tools & Technologies
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
 ---
 
-## 🚀 Featured Project — Nexii
+## 🔥 Featured Projects
 
-<div align="center">
-<img src="https://img.shields.io/badge/Status-Patent%20Drafted%20🇮🇳-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-</div>
-
-**Nexii** is a hyperlocal electronics marketplace — think "Zomato-model" applied to electronics — connecting buyers with verified local shops within a 30–40 km radius.
-
-- 🏗️ Full Android app scaffolded across **20 screens** covering buyer and seller flows
-- ⚡ Hyperlocal express delivery + **"Try Before You Buy"** demo booking
-- 🔐 Digital warranty vault and automated compliance verification
-- 🤖 Built-in AI shopping assistant with real-time inventory management
-- 🎨 Built with **Kotlin, Jetpack Compose, Material 3, Navigation Compose**
-- 📜 **Patent application drafted** with the Indian Patent Office, filing in progress (co-invented with Om Garg & Deepanshu)
-
-🔗 **Repository:** [github.com/singhsatyam05/nexii-fullstack-app](https://github.com/singhsatyam05/nexii-fullstack-app)
+### 🤖 AI Deadlock Detection System
+➡️ GUI-based OS project using Resource Allocation Graph (RAG) for deadlock detection  
+🔗 https://github.com/singhsatyam05/AiDeadlockDetectionSystem  
 
 ---
 
-## 🔥 Other Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**🚨 Accident Alert with AI Scanning**
-AI-powered accident detection system that identifies incidents and triggers emergency notifications automatically.
-🔗 [Repository](https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System)
-
-</td>
-<td width="50%">
-
-**🤖 AI Deadlock Detection System**
-OS simulator using a Resource Allocation Graph and Banker's Algorithm to detect deadlocks and unsafe states with graphical visualization.
-🔗 [Repository](https://github.com/singhsatyam05/AiDeadlockDetectionSystem)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🔭 AI Telescope Assistant**
-AI-powered astronomy assistant built on the OpenAI API for celestial tracking and intelligent insights.
-🔗 [Repository](https://github.com/singhsatyam05/AITelescopeAssistant)
-
-</td>
-<td width="50%">
-
-**📊 Sports Car Sales Dashboard**
-Interactive Power BI dashboard with KPIs, DAX measures, and business insights.
-🔗 [Repository](https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**💪 FitIQ — Fitness Tracking App**
-Android app with Firebase integration delivering personalized fitness recommendations.
-🔗 [Repository](https://github.com/singhsatyam05/FitIQ)
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+### 🔭 AI Telescope Assistant
+➡️ AI-powered astronomy tool for celestial tracking, insights, and automation  
+🔗 https://github.com/singhsatyam05/AITelescopeAssistant  
 
 ---
 
-## 🏅 Achievements
 
-<div align="center">
+### 📝 Nexii Notes App
+➡️ A responsive notes management web app to create, delete, and store notes using browser local storage  
+➡️ Designed with clean UI and optimized for fast performance  
+🔗 https://github.com/singhsatyam05/Nexi-NotesApp 
 
-<img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/HackerRank-5★%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/Patent-Drafted%20(India)-blueviolet?style=for-the-badge"/>
+---
 
-</div>
+### 📊 Power BI Sports Car Dashboard
+➡️ Interactive dashboard with KPIs, DAX, and business insights  
+🔗 https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis  
 
-- 🏆 **150+ DSA & SQL** problems solved on LeetCode
-- ⭐ **Top SQL 50** badge on LeetCode · 67 MySQL problems solved
-- ⭐ **5★ SQL** rating on HackerRank, certified in SQL (Basic, Intermediate & Advanced)
-- 🥉 3rd place on an Analytical Leaderboard (CSE Pathshala DSA training, ~200 participants)
-- 📜 Co-inventor on a **drafted patent application** for Nexii
+---
+
+### 💪 FitIQ – Fitness Tracking App
+➡️ Android app with Firebase integration and personalized recommendations  
+🔗 https://github.com/singhsatyam05/FitIQ  
+
+---
+
+## 📈 What I’m Building
+- 🛠️ AI Code Debugger (automating error detection & fixes)  
+- ☁️ Cloud-deployed intelligent applications  
+- 📊 Data-driven systems for real-world insights  
+
+---
+
+## 🌐 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/singhsatyam05" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:satyamkumarsingh13990@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
-
-<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight&hide_border=true" />
-
-</div>
-
-> Your day-by-day contribution grid already shows natively on your GitHub profile page right below this README — no extra widget needed, and it avoids the light-background mismatch some contribution-chart services render with dark themes.
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-<div align="center">
+## 🔥 Contribution Activity
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsatyam05&theme=tokyo-night" />
+</p>
 
-### 💡
+---
 
-> *"Transforming data into insights, ideas into applications, and challenges into opportunities."*
+## 🏆 Streak Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=100&section=footer"/>
+---
 
-</div>
+## 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Personal Motto
+🚀 *"I don’t just write code, I build solutions."*  
+
+---
+
+⭐ **Always building. Always improving.**
