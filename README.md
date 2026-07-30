@@ -1,166 +1,216 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:8A2BE2,100:FF00E5&height=280&section=header&text=SATYAM%20KUMAR%20SINGH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Architect%20of%20SWASTIK%20%E2%80%A2%20Data%20%2B%20AI%20%2B%20Android%20Builder&descAlignY=52&descSize=20" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="34px"/> <b>Hey, I'm Satyam — I build things that ship.</b>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=800&lines=Final-Year+CSE+Student+%40+LPU;Inventor+%E2%80%94+Patent+Filed+for+SWASTIK+%F0%9F%87%AE%F0%9F%87%B3;Kotlin+%2B+Jetpack+Compose+Android+Dev;Data+Science+%7C+SQL+%7C+Power+BI+%7C+Spark;Currently%3A+Building+%2C+Breaking%2C+Rebuilding+%F0%9F%9A%80" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/singhsatyam05)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhsatyam05)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/singhsatyam05)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamkumarsingh13990@gmail.com)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=singhsatyam05&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/singhsatyam05?label=FOLLOWERS&style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/badge/PATENT-FILED%20🇮🇳-FF00E5?style=for-the-badge"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1b2a,100:0d1117&height=260&section=header" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center" style="margin-top:-230px">
 
-## 🧬 About Me
+<img src="https://img.shields.io/badge/%3C%20CODE%20•%20CREATE%20•%20CONQUER%20%3E-000000?style=for-the-badge&labelColor=1a1a2e&color=8A2BE2"/>
 
-<img align="right" width="230" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.gif"/>
+<h1>Hi, I'm<br/><span>SATYAM KUMAR SINGH</span></h1>
 
-```yaml
-satyam:
-  role: Final-Year B.Tech CSE @ Lovely Professional University
-  focus:
-    - Data Science & Machine Learning
-    - AI-Powered Application Development
-    - Android Development (Kotlin + Compose)
-  flagship_build: SWASTIK — hyperlocal electronics marketplace
-  status: Patent Filed 🇮🇳 (co-invented with Om Garg & Deepanshu)
-  mindset: "Ship it, measure it, improve it."
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2B+Android+Developer;Data+Science+Enthusiast;Patent-Filed+Inventor+(Nexii)+%F0%9F%87%AE%F0%9F%87%B3;AI+%2B+Automation+Builder" />
 
-- 🔭 Building **SWASTIK** — a "Zomato-model for electronics" hyperlocal marketplace, now live at **[nexii-fullstack-app](https://github.com/singhsatyam05/nexii-fullstack-app)**
-- 📜 Co-inventor on a **filed Indian patent** for SWASTIK's hyperlocal delivery + AI shopping assistant system
-- 📊 Deep interest in turning raw data into decisions — **SQL, Power BI, Spark, Hadoop, Pandas**
-- 📱 Android development specialist — **Kotlin, Jetpack Compose, MVVM, Material 3**
-- 🌱 Currently sharpening DSA + system design for Data Science / SDE roles
-- ⚡ Fun fact: I'd rather debug a race condition than skip a workout
-
-<br clear="right"/>
-
----
-
-## 🏗️ Flagship Build — SWASTIK
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:2c5364,100:00F7FF&height=90&text=SWASTIK%20—%20Hyperlocal%20Electronics%20Marketplace&fontSize=24&fontColor=ffffff&fontAlign=50&fontAlignY=60" width="100%"/>
-
-<img src="https://img.shields.io/badge/Status-Patent%20Filed%20🇮🇳-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material%203-Design%20System-4285F4?style=for-the-badge&logo=materialdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/20%20Screens-Buyer%20%2B%20Seller%20Flows-orange?style=for-the-badge"/>
-</div>
-
-SWASTIK connects buyers with **verified local electronics shops within a 30–40 km radius** — think Zomato's local-discovery model, rebuilt for electronics.
-
-| Feature | Description |
-|---|---|
-| ⚡ **Hyperlocal Express Delivery** | Same-area delivery network for verified local sellers |
-| 🧪 **Try Before You Buy** | In-app demo booking before purchase |
-| 🔐 **Digital Warranty Vault** | Centralized, tamper-proof warranty storage |
-| 🤖 **AI Shopping Assistant** | Real-time inventory awareness + smart recommendations |
-| ✅ **Automated Compliance Verification** | Seller & product verification pipeline |
-
-**Stack:** Kotlin · Jetpack Compose · Material 3 · Navigation Compose · Firebase
-
-🔗 **Repository:** [github.com/singhsatyam05/nexii-fullstack-app](https://github.com/singhsatyam05/nexii-fullstack-app)
-
----
-
-## 🚀 More Projects
-
-<div align="center">
-
-<a href="https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhsatyam05&repo=Accidental-Alert-with-AI-Scanning-System&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/singhsatyam05/AiDeadlockDetectionSystem">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhsatyam05&repo=AiDeadlockDetectionSystem&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/singhsatyam05/AITelescopeAssistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhsatyam05&repo=AITelescopeAssistant&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhsatyam05&repo=PowerBI-Sports-Car-Data-Analysis&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/singhsatyam05/FitIQ">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=singhsatyam05&repo=FitIQ&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-> 💡 *Pin cards render live from your actual repos — descriptions, stars, and languages update automatically.*
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,kotlin,js,html,css&theme=dark" />
-
-**Android Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase,materialui&theme=dark" />
-
-**Data Science & Analytics**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-**Backend & Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,mysql,firebase,nodejs&theme=dark" />
-
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma&theme=dark" />
+<img src="https://img.shields.io/badge/🟢_Programmer-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🧩_Problem_Solver-1a1a2e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Creative_Builder-1a1a2e?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🏅 Achievements & Credentials
+## 👤 About Me
+
+I'm a passionate **Full-Stack Developer and Data Science enthusiast** who loves turning ideas into real-world, shippable solutions. I enjoy working at the intersection of **code, data, and product** — from architecting Android apps to building dashboards that make numbers make sense.
+
+My flagship build, **Nexii**, is a hyperlocal electronics marketplace that now has a **filed Indian patent** behind it — proof I don't just prototype, I follow through.
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**💻 I CODE**
+<br/>
+Building scalable Android apps and full-stack platforms
+
+</td>
+<td align="center" width="25%">
+
+**📊 I ANALYZE**
+<br/>
+Turning raw data into insight with SQL, Spark & Power BI
+
+</td>
+<td align="center" width="25%">
+
+**🎮 I CREATE**
+<br/>
+Designing clean, intuitive product experiences
+
+</td>
+<td align="center" width="25%">
+
+**🚀 I GROW**
+<br/>
+Always learning — currently deep in DSA & system design
+
+</td>
+</tr>
+</table>
+
+<img src="https://img.shields.io/badge/🎓_CSE_Student-LPU,_Phagwara-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/📍_Location-Punjab,_India-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔄_Always-Learning-1a1a2e?style=flat-square"/>
+<img src="https://img.shields.io/badge/🎯_Focus-Building_things_that_matter-1a1a2e?style=flat-square"/>
+
+---
+
+## 🧰 Tech Stack
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Top%20SQL%2050%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/HackerRank-5★%20SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Certified-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSE%20Pathshala-3rd%20Place%20%2F%20200-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Indian%20Patent%20Office-Patent%20Filed-FF00E5?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=kotlin,java,python,cpp,js,html,css,androidstudio,firebase,spring,mysql,git,github,vscode,docker,figma&theme=dark&perline=8"/>
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🎮 Skill Progression
+
+| Skill | Level | Progress |
+|---|---|---|
+| DSA & SQL | Lv.8 | ![](https://progress-bar.dev/85/?width=200&color=8A2BE2) |
+| Android Dev (Kotlin + Compose) | Lv.8 | ![](https://progress-bar.dev/82/?width=200&color=00F7FF) |
+| Data Science & Analytics | Lv.7 | ![](https://progress-bar.dev/75/?width=200&color=00F7FF) |
+| Full-Stack Development | Lv.6 | ![](https://progress-bar.dev/68/?width=200&color=8A2BE2) |
+| System Design | Lv.5 | ![](https://progress-bar.dev/55/?width=200&color=8A2BE2) |
+
+> *Bars are self-rated — tweak the percentages to match your own honest assessment.*
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="60%">
+
+### 🛒 Nexii — Hyperlocal Electronics Marketplace
+Full-stack Android marketplace connecting buyers with verified local electronics shops within 30–40 km. Features hyperlocal express delivery, "Try Before You Buy" demo booking, a digital warranty vault, and an AI shopping assistant.
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Patent_Filed-success?style=flat-square"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/nexii-fullstack-app)
+
+</td>
+<td width="40%" align="center">
+
+📱
+
+</td>
+</tr>
+<tr>
+<td width="60%">
+
+### 🚨 Accident Alert with AI Scanning
+AI-powered accident detection system that identifies incidents and triggers emergency notifications automatically.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-8A2BE2?style=flat-square"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/Accidental-Alert-with-AI-Scanning-System)
+
+</td>
+<td width="40%" align="center">
+
+🚨
+
+</td>
+</tr>
+<tr>
+<td width="60%">
+
+### 🤖 AI Deadlock Detection System
+OS simulator using a Resource Allocation Graph and Banker's Algorithm to detect deadlocks and unsafe states, with graphical visualization.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OS_Concepts-8A2BE2?style=flat-square"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/AiDeadlockDetectionSystem)
+
+</td>
+<td width="40%" align="center">
+
+🧠
+
+</td>
+</tr>
+<tr>
+<td width="60%">
+
+### 🔭 AI Telescope Assistant
+AI-powered astronomy assistant built on the OpenAI API for celestial tracking and intelligent insights.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/AITelescopeAssistant)
+
+</td>
+<td width="40%" align="center">
+
+🔭
+
+</td>
+</tr>
+<tr>
+<td width="60%">
+
+### 📊 Sports Car Sales Dashboard
+Interactive Power BI dashboard with KPIs, DAX measures, and business insights.
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-8A2BE2?style=flat-square"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/PowerBI-Sports-Car-Data-Analysis)
+
+</td>
+<td width="40%" align="center">
+
+📈
+
+</td>
+</tr>
+<tr>
+<td width="60%">
+
+### 💪 FitIQ — Fitness Tracking App
+Android app with Firebase integration delivering personalized fitness recommendations.
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+
+🔗 [View Repository](https://github.com/singhsatyam05/FitIQ)
+
+</td>
+<td width="40%" align="center">
+
+💪
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=donut&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyam05&theme=tokyonight&hide_border=true"/>
 
@@ -170,20 +220,26 @@ SWASTIK connects buyers with **verified local electronics shops within a 30–40
 
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/singhsatyam05/singhsatyam05/output/github-contribution-grid-snake.svg" width="97%"/>
-</div>
-
 ---
 
+## 🌐 Connect With Me
+
 <div align="center">
 
-### 💡
-
-> *"Transforming data into insights, ideas into applications, and challenges into opportunities."*
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:8A2BE2,100:00F7FF&height=150&section=footer"/>
+[![GitHub](https://img.shields.io/badge/GitHub-@singhsatyam05-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/singhsatyam05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-singhsatyam05-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/singhsatyam05)
+[![LeetCode](https://img.shields.io/badge/LeetCode-singhsatyam05-1a1a2e?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/singhsatyam05)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-1a1a2e?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:satyamkumarsingh13990@gmail.com)
 
 </div>
+
+<div align="center">
+
+💡 *"The best way to predict the future is to build it."*
+<br/>
+**Thanks for visiting! ⭐**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0d1b2a,100:0d1117&height=100&section=footer" width="100%"/>
