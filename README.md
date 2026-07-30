@@ -4,13 +4,13 @@
 
 </div>
 
-<div align="center" style="margin-top:-230px">
+<div align="center">
 
-<img src="https://img.shields.io/badge/%3C%20CODE%20•%20CREATE%20•%20CONQUER%20%3E-000000?style=for-the-badge&labelColor=1a1a2e&color=8A2BE2"/>
+<img src="https://img.shields.io/badge/%3C%20CODE%20•%20CREATE%20•%20CONQUER%20%3E-1a1a2e?style=for-the-badge&color=8A2BE2"/>
 
-<h1>Hi, I'm<br/><span>SATYAM KUMAR SINGH</span></h1>
+<h1>Hi, I'm<br/>SATYAM KUMAR SINGH</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2B+Android+Developer;Data+Science+Enthusiast;Patent-Filed+Inventor+(Nexii)+%F0%9F%87%AE%F0%9F%87%B3;AI+%2B+Automation+Builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&width=750&lines=Full-Stack+%2B+Android+Developer;Data+Science+Enthusiast;Patent-Filed+Inventor+(Nexii)+%F0%9F%87%AE%F0%9F%87%B3;AI+%2B+Automation+Builder" />
 
 <img src="https://img.shields.io/badge/🟢_Programmer-1a1a2e?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🧩_Problem_Solver-1a1a2e?style=for-the-badge"/>
@@ -78,11 +78,11 @@ Always learning — currently deep in DSA & system design
 
 | Skill | Level | Progress |
 |---|---|---|
-| DSA & SQL | Lv.8 | ![](https://progress-bar.dev/85/?width=200&color=8A2BE2) |
-| Android Dev (Kotlin + Compose) | Lv.8 | ![](https://progress-bar.dev/82/?width=200&color=00F7FF) |
-| Data Science & Analytics | Lv.7 | ![](https://progress-bar.dev/75/?width=200&color=00F7FF) |
-| Full-Stack Development | Lv.6 | ![](https://progress-bar.dev/68/?width=200&color=8A2BE2) |
-| System Design | Lv.5 | ![](https://progress-bar.dev/55/?width=200&color=8A2BE2) |
+| DSA & SQL | Lv.8 | ![](https://progress-bar.dev/85?width=200&color=8A2BE2) |
+| Android Dev (Kotlin + Compose) | Lv.8 | ![](https://progress-bar.dev/82?width=200&color=00F7FF) |
+| Data Science & Analytics | Lv.7 | ![](https://progress-bar.dev/75?width=200&color=00F7FF) |
+| Full-Stack Development | Lv.6 | ![](https://progress-bar.dev/68?width=200&color=8A2BE2) |
+| System Design | Lv.5 | ![](https://progress-bar.dev/55?width=200&color=8A2BE2) |
 
 > *Bars are self-rated — tweak the percentages to match your own honest assessment.*
 
@@ -212,11 +212,13 @@ Android app with Firebase integration delivering personalized fitness recommenda
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=donut&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsatyam05&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=singhsatyam05&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsatyam05&theme=tokyo-night&hide_border=true" width="97%"/>
+
+<img src="https://ghchart.rshah.org/00F7FF/singhsatyam05" width="97%"/>
 
 </div>
 
