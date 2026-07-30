@@ -181,14 +181,14 @@ Android app with Firebase integration delivering personalized fitness recommenda
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=singhsatyam05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsatyam05&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 
 <img src="https://streak-stats.demolab.com?user=singhsatyam05&theme=tokyonight&hide_border=true" />
 
-<img src="https://ghchart.rshah.org/00F7FF/singhsatyam05" width="95%"/>
-
 </div>
+
+> Your day-by-day contribution grid already shows natively on your GitHub profile page right below this README — no extra widget needed, and it avoids the light-background mismatch some contribution-chart services render with dark themes.
 
 ---
 
